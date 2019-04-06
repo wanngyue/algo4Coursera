@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="resources"/>
+	<classpathentry including="**/**" kind="src" path="resources"/>
 	<classpathentry excluding="src/|resources/" kind="src" path=""/>
 	<classpathentry kind="lib" path="/Users/yuewang/git/algo4CourseraProject/Algo4Coursera/algs4.jar"/>
 	<classpathentry kind="output" path="bin"/>
